@@ -1,7 +1,23 @@
+Quick setup — if you’ve done this kind of thing before :
+
+HTTPS:
+https://github.com/Nezamkha32/PH-PROJECT.git
+
+…or create a new repository on the command line :
+
 echo "# PH-PROJECT" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Nezamkha32/PH-PROJECT.git
+git push -u origin main 
+https://github.com/Nezamkha32git
+
+
+or push an existing repository from the command line :
+
+git remote add origin https://github.com/Nezamkha32/PH-PROJECT.git
+git branch -M main
 git push -u origin main
+
