@@ -1,0 +1,19 @@
+.blog{
+    background-color: chocolate;
+}
+
+h1{
+    text-decoration: underline;
+}
+#second-blog{
+    background-color: blueviolet;
+    /* display: none; */
+    /* visibility: hidden; */
+#minima{
+    color: rgb(72, 255, 0);
+    /* border: 10px solid black; */
+    margin: 20;
+    padding: 10;
+    /* display: block; */
+}
+}
